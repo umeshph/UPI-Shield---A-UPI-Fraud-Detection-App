@@ -1,0 +1,101 @@
+Amount,Date,Transaction_Type,Payment_Gateway,Transaction_State,Merchant_Category
+13144.35,20-06-2024,Cash Withdrawal,Overseas Payment,No Fixed Location,Luxury Goods
+12962.17,04-05-2024,Other,Overseas Payment,Remote Area,High-Risk Investment
+19490.48,02-07-2024,Cash Withdrawal,Unknown Bank,No Fixed Location,Gambling
+9039.07,07-10-2024,Other,Unknown Bank,Unknown,Gambling
+5422.04,16-04-2024,Other,Overseas Payment,Remote Area,Luxury Goods
+18434.3,19-04-2024,Wire Transfer,Overseas Payment,Remote Area,Gambling
+19081.65,05-02-2024,Other,Unknown Bank,No Fixed Location,High-Risk Investment
+14917.81,03-11-2024,Cash Withdrawal,Overseas Payment,Remote Area,Luxury Goods
+7794.3,12-04-2024,Cash Withdrawal,Unverified Gateway,No Fixed Location,High-Risk Investment
+10749.61,23-02-2024,Other,Unverified Gateway,No Fixed Location,Gambling
+16034.76,07-10-2024,Cash Withdrawal,Unverified Gateway,Remote Area,Gambling
+19475.54,14-08-2024,Other,Overseas Payment,Remote Area,Luxury Goods
+16996.48,15-09-2024,Other,Unverified Gateway,No Fixed Location,High-Risk Investment
+14664.78,13-07-2024,Wire Transfer,Unknown Bank,No Fixed Location,Luxury Goods
+7628.66,18-02-2024,Wire Transfer,Overseas Payment,No Fixed Location,Luxury Goods
+5657.31,17-09-2024,Wire Transfer,Unknown Bank,No Fixed Location,High-Risk Investment
+13296.79,01-06-2024,Wire Transfer,Overseas Payment,Remote Area,Luxury Goods
+19889.56,05-02-2024,Other,Overseas Payment,No Fixed Location,High-Risk Investment
+14715.46,20-10-2024,Cash Withdrawal,Unknown Bank,Unknown,Gambling
+12839.32,12-09-2024,Wire Transfer,Unverified Gateway,No Fixed Location,High-Risk Investment
+13871.66,13-04-2024,Other,Unverified Gateway,No Fixed Location,High-Risk Investment
+16487.23,26-02-2024,Cash Withdrawal,Unverified Gateway,Unknown,Gambling
+12741.55,01-12-2024,Wire Transfer,Overseas Payment,Unknown,Gambling
+12114.53,22-01-2024,Cash Withdrawal,Unknown Bank,Remote Area,Luxury Goods
+17763.01,11-02-2024,Cash Withdrawal,Overseas Payment,No Fixed Location,High-Risk Investment
+12697.7,07-06-2024,Wire Transfer,Unverified Gateway,Unknown,Luxury Goods
+13602.45,10-09-2024,Cash Withdrawal,Unverified Gateway,Unknown,High-Risk Investment
+10023.99,15-06-2024,Wire Transfer,Unknown Bank,Unknown,Gambling
+8769.23,01-09-2024,Wire Transfer,Unverified Gateway,No Fixed Location,Luxury Goods
+9351.17,14-03-2024,Other,Overseas Payment,No Fixed Location,Gambling
+9518.09,22-09-2024,Other,Overseas Payment,Remote Area,High-Risk Investment
+10073.48,17-08-2024,Other,Overseas Payment,No Fixed Location,Gambling
+6657.54,12-06-2024,Other,Unverified Gateway,Remote Area,High-Risk Investment
+17950.73,19-11-2024,Other,Unverified Gateway,Remote Area,High-Risk Investment
+5704.5,21-08-2024,Wire Transfer,Unknown Bank,Unknown,Luxury Goods
+19501.43,18-08-2024,Other,Unknown Bank,Remote Area,Luxury Goods
+16341.48,24-05-2024,Cash Withdrawal,Unknown Bank,No Fixed Location,Gambling
+7061.95,12-06-2024,Wire Transfer,Unknown Bank,Remote Area,High-Risk Investment
+11807.7,06-02-2024,Cash Withdrawal,Overseas Payment,Remote Area,Gambling
+11058.15,21-08-2024,Cash Withdrawal,Unverified Gateway,Remote Area,Luxury Goods
+18005.46,12-07-2024,Other,Unknown Bank,Unknown,Gambling
+7907.64,19-06-2024,Wire Transfer,Unknown Bank,Remote Area,Luxury Goods
+14934.71,18-09-2024,Cash Withdrawal,Unknown Bank,No Fixed Location,High-Risk Investment
+14565.34,13-04-2024,Other,Overseas Payment,No Fixed Location,Luxury Goods
+19776.9,15-08-2024,Other,Unknown Bank,No Fixed Location,Luxury Goods
+16570.03,03-03-2024,Other,Overseas Payment,No Fixed Location,Luxury Goods
+18007.7,02-07-2024,Wire Transfer,Unverified Gateway,Remote Area,High-Risk Investment
+6672.61,03-03-2024,Wire Transfer,Unverified Gateway,Remote Area,High-Risk Investment
+12591.57,11-03-2024,Wire Transfer,Unverified Gateway,No Fixed Location,Gambling
+5105.52,04-12-2024,Cash Withdrawal,Unverified Gateway,Unknown,Luxury Goods
+15430.04,28-03-2024,Cash Withdrawal,Overseas Payment,Unknown,Luxury Goods
+11682.55,22-07-2024,Other,Overseas Payment,Unknown,Luxury Goods
+9165.46,06-04-2024,Cash Withdrawal,Unknown Bank,Unknown,Luxury Goods
+19630.97,04-03-2024,Wire Transfer,Overseas Payment,No Fixed Location,Luxury Goods
+7354.37,11-11-2024,Wire Transfer,Unverified Gateway,Remote Area,Gambling
+10686.87,15-11-2024,Other,Overseas Payment,No Fixed Location,Luxury Goods
+8899.76,12-08-2024,Cash Withdrawal,Overseas Payment,Unknown,Luxury Goods
+12983.81,19-03-2024,Cash Withdrawal,Unverified Gateway,Remote Area,High-Risk Investment
+18278.0,05-02-2024,Other,Unverified Gateway,No Fixed Location,High-Risk Investment
+10593.93,07-04-2024,Cash Withdrawal,Overseas Payment,Unknown,Luxury Goods
+11185.8,27-01-2024,Wire Transfer,Unknown Bank,Remote Area,Luxury Goods
+10550.76,26-07-2024,Other,Unverified Gateway,No Fixed Location,High-Risk Investment
+16145.06,11-02-2024,Cash Withdrawal,Overseas Payment,Remote Area,Gambling
+19842.15,28-05-2024,Other,Unknown Bank,Remote Area,Gambling
+6477.64,19-10-2024,Cash Withdrawal,Unverified Gateway,Unknown,Luxury Goods
+12921.94,17-10-2024,Wire Transfer,Unknown Bank,No Fixed Location,Gambling
+12865.96,06-12-2024,Wire Transfer,Unverified Gateway,Unknown,High-Risk Investment
+6384.92,20-01-2024,Wire Transfer,Unverified Gateway,Remote Area,Luxury Goods
+13647.65,16-02-2024,Other,Overseas Payment,Unknown,Luxury Goods
+11582.51,03-08-2024,Wire Transfer,Overseas Payment,Unknown,Luxury Goods
+10596.38,13-09-2024,Wire Transfer,Unknown Bank,No Fixed Location,Luxury Goods
+19497.35,24-11-2024,Other,Unknown Bank,No Fixed Location,Luxury Goods
+13696.13,17-02-2024,Other,Unverified Gateway,No Fixed Location,Luxury Goods
+15802.49,23-07-2024,Cash Withdrawal,Overseas Payment,Unknown,Luxury Goods
+9925.31,09-04-2024,Other,Unverified Gateway,Unknown,High-Risk Investment
+7152.58,19-07-2024,Other,Overseas Payment,Remote Area,Luxury Goods
+15387.77,27-06-2024,Other,Unverified Gateway,No Fixed Location,Luxury Goods
+15225.94,05-01-2024,Cash Withdrawal,Unverified Gateway,Remote Area,High-Risk Investment
+15305.85,22-11-2024,Other,Unverified Gateway,Remote Area,Gambling
+14635.81,11-02-2024,Cash Withdrawal,Unknown Bank,Unknown,High-Risk Investment
+17869.56,20-11-2024,Other,Unknown Bank,No Fixed Location,High-Risk Investment
+14993.86,15-06-2024,Cash Withdrawal,Overseas Payment,No Fixed Location,High-Risk Investment
+12649.38,06-12-2024,Cash Withdrawal,Unknown Bank,Unknown,Gambling
+18219.1,04-07-2024,Other,Overseas Payment,Unknown,Gambling
+9857.85,06-11-2024,Other,Overseas Payment,No Fixed Location,Luxury Goods
+6859.17,28-09-2024,Wire Transfer,Overseas Payment,Remote Area,Luxury Goods
+8748.23,05-03-2024,Wire Transfer,Overseas Payment,Unknown,High-Risk Investment
+5385.61,03-12-2024,Cash Withdrawal,Unverified Gateway,Unknown,Gambling
+11099.47,03-05-2024,Wire Transfer,Overseas Payment,No Fixed Location,Gambling
+14246.95,17-01-2024,Wire Transfer,Overseas Payment,Remote Area,Luxury Goods
+11572.36,15-02-2024,Other,Overseas Payment,No Fixed Location,Luxury Goods
+18111.6,13-09-2024,Cash Withdrawal,Overseas Payment,Remote Area,Luxury Goods
+7594.13,09-05-2024,Other,Overseas Payment,Remote Area,Luxury Goods
+18496.36,05-07-2024,Other,Overseas Payment,No Fixed Location,High-Risk Investment
+14666.12,24-02-2024,Other,Unverified Gateway,Remote Area,High-Risk Investment
+11049.89,25-07-2024,Other,Unknown Bank,Remote Area,High-Risk Investment
+16107.83,09-09-2024,Other,Overseas Payment,No Fixed Location,Gambling
+6008.13,17-09-2024,Other,Overseas Payment,No Fixed Location,High-Risk Investment
+17567.51,28-11-2024,Other,Unverified Gateway,No Fixed Location,Luxury Goods
+11396.78,11-06-2024,Cash Withdrawal,Unverified Gateway,Remote Area,High-Risk Investment

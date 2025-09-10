@@ -1,0 +1,101 @@
+Amount,Date,Transaction_Type,Payment_Gateway,Transaction_State,Merchant_Category
+304.1,02-06-2024,Payment,SBI NetBanking,Maharashtra,Financial services and Taxes
+140.44,24-06-2024,Payment,HDFC,Tamil Nadu,Retail
+403.95,01-12-2024,Payment,HDFC,Delhi,Retail
+195.01,19-07-2024,Online Purchase,HDFC,Karnataka,Groceries
+141.96,13-12-2024,Payment,SBI NetBanking,Maharashtra,Groceries
+185.88,14-11-2024,Online Purchase,IDFC UPI,Maharashtra,Financial services and Taxes
+15.64,05-04-2024,Bill Payment,HDFC,Maharashtra,Utilities
+339.34,21-06-2024,Online Purchase,IDFC UPI,Maharashtra,Retail
+108.02,15-03-2024,Online Purchase,HDFC,Tamil Nadu,Groceries
+371.16,20-05-2024,Bill Payment,HDFC,Delhi,Retail
+25.13,06-05-2024,Bill Payment,SBI NetBanking,Karnataka,Groceries
+362.74,26-05-2024,Online Purchase,IDFC UPI,Delhi,Groceries
+46.75,14-09-2024,Online Purchase,IDFC UPI,Karnataka,Retail
+30.05,23-11-2024,Bill Payment,IDFC UPI,Tamil Nadu,Financial services and Taxes
+249.6,05-09-2024,Online Purchase,SBI NetBanking,Karnataka,Groceries
+322.67,18-04-2024,Bill Payment,IDFC UPI,Tamil Nadu,Financial services and Taxes
+228.37,24-10-2024,Online Purchase,IDFC UPI,Delhi,Financial services and Taxes
+257.87,22-10-2024,Bill Payment,HDFC,Tamil Nadu,Financial services and Taxes
+102.38,04-03-2024,Online Purchase,HDFC,Karnataka,Retail
+271.55,20-12-2024,Payment,HDFC,Maharashtra,Utilities
+70.75,26-08-2024,Payment,SBI NetBanking,Delhi,Groceries
+66.03,04-11-2024,Payment,IDFC UPI,Delhi,Utilities
+431.54,15-04-2024,Payment,SBI NetBanking,Delhi,Financial services and Taxes
+37.25,27-02-2024,Payment,HDFC,Tamil Nadu,Retail
+121.12,25-12-2024,Bill Payment,HDFC,Tamil Nadu,Retail
+452.57,17-11-2024,Payment,IDFC UPI,Karnataka,Groceries
+284.37,03-11-2024,Online Purchase,HDFC,Maharashtra,Financial services and Taxes
+231.81,26-01-2024,Bill Payment,HDFC,Tamil Nadu,Financial services and Taxes
+365.22,12-11-2024,Online Purchase,HDFC,Karnataka,Retail
+107.58,20-09-2024,Online Purchase,SBI NetBanking,Maharashtra,Financial services and Taxes
+67.15,11-09-2024,Payment,HDFC,Delhi,Financial services and Taxes
+59.42,18-02-2024,Online Purchase,HDFC,Maharashtra,Retail
+457.66,03-08-2024,Bill Payment,IDFC UPI,Karnataka,Financial services and Taxes
+212.62,21-12-2024,Online Purchase,SBI NetBanking,Karnataka,Retail
+291.59,13-03-2024,Payment,SBI NetBanking,Maharashtra,Groceries
+169.49,28-02-2024,Payment,SBI NetBanking,Maharashtra,Financial services and Taxes
+30.09,02-08-2024,Online Purchase,SBI NetBanking,Maharashtra,Retail
+382.52,25-03-2024,Bill Payment,IDFC UPI,Maharashtra,Utilities
+115.37,06-11-2024,Bill Payment,IDFC UPI,Maharashtra,Utilities
+32.55,06-12-2024,Online Purchase,HDFC,Karnataka,Retail
+485.14,17-02-2024,Payment,IDFC UPI,Karnataka,Financial services and Taxes
+40.57,01-05-2024,Bill Payment,HDFC,Karnataka,Utilities
+280.48,23-09-2024,Online Purchase,SBI NetBanking,Tamil Nadu,Groceries
+428.84,27-06-2024,Payment,IDFC UPI,Tamil Nadu,Groceries
+56.68,23-07-2024,Bill Payment,SBI NetBanking,Karnataka,Retail
+479.5,13-01-2024,Bill Payment,SBI NetBanking,Delhi,Groceries
+268.78,13-07-2024,Payment,SBI NetBanking,Delhi,Financial services and Taxes
+355.84,19-06-2024,Payment,SBI NetBanking,Karnataka,Retail
+112.95,04-09-2024,Bill Payment,SBI NetBanking,Karnataka,Financial services and Taxes
+485.52,16-06-2024,Bill Payment,IDFC UPI,Delhi,Financial services and Taxes
+207.1,02-11-2024,Bill Payment,IDFC UPI,Maharashtra,Retail
+107.23,20-06-2024,Online Purchase,HDFC,Maharashtra,Retail
+127.08,22-02-2024,Online Purchase,SBI NetBanking,Maharashtra,Groceries
+199.42,21-04-2024,Bill Payment,HDFC,Karnataka,Groceries
+225.06,03-05-2024,Bill Payment,HDFC,Karnataka,Retail
+371.01,13-09-2024,Online Purchase,SBI NetBanking,Delhi,Utilities
+34.6,04-12-2024,Payment,HDFC,Karnataka,Groceries
+141.85,20-08-2024,Online Purchase,IDFC UPI,Karnataka,Financial services and Taxes
+229.02,28-10-2024,Bill Payment,SBI NetBanking,Tamil Nadu,Groceries
+326.53,01-06-2024,Payment,IDFC UPI,Tamil Nadu,Retail
+240.91,03-09-2024,Payment,HDFC,Maharashtra,Financial services and Taxes
+144.58,12-11-2024,Online Purchase,IDFC UPI,Tamil Nadu,Retail
+145.24,06-07-2024,Payment,HDFC,Delhi,Groceries
+186.29,23-09-2024,Bill Payment,SBI NetBanking,Delhi,Financial services and Taxes
+55.15,18-08-2024,Online Purchase,HDFC,Maharashtra,Retail
+48.96,18-01-2024,Online Purchase,HDFC,Maharashtra,Retail
+38.51,19-10-2024,Bill Payment,HDFC,Tamil Nadu,Financial services and Taxes
+201.03,21-07-2024,Payment,IDFC UPI,Karnataka,Groceries
+458.93,28-08-2024,Bill Payment,SBI NetBanking,Tamil Nadu,Retail
+351.29,24-06-2024,Online Purchase,HDFC,Maharashtra,Financial services and Taxes
+429.3,09-01-2024,Online Purchase,SBI NetBanking,Maharashtra,Utilities
+477.53,18-10-2024,Bill Payment,SBI NetBanking,Delhi,Retail
+100.3,07-03-2024,Online Purchase,SBI NetBanking,Tamil Nadu,Groceries
+201.35,08-01-2024,Bill Payment,IDFC UPI,Tamil Nadu,Groceries
+125.15,17-07-2024,Bill Payment,SBI NetBanking,Delhi,Financial services and Taxes
+409.84,23-05-2024,Online Purchase,HDFC,Maharashtra,Groceries
+91.81,11-03-2024,Bill Payment,HDFC,Tamil Nadu,Utilities
+45.54,13-11-2024,Payment,IDFC UPI,Maharashtra,Retail
+375.54,21-06-2024,Online Purchase,HDFC,Karnataka,Retail
+152.05,09-10-2024,Bill Payment,SBI NetBanking,Tamil Nadu,Groceries
+31.77,14-09-2024,Bill Payment,IDFC UPI,Tamil Nadu,Groceries
+51.96,26-10-2024,Online Purchase,SBI NetBanking,Maharashtra,Groceries
+465.38,04-10-2024,Payment,SBI NetBanking,Tamil Nadu,Retail
+415.87,12-05-2024,Online Purchase,IDFC UPI,Delhi,Financial services and Taxes
+476.61,23-03-2024,Bill Payment,HDFC,Maharashtra,Financial services and Taxes
+229.57,18-08-2024,Online Purchase,HDFC,Tamil Nadu,Retail
+329.64,23-06-2024,Online Purchase,HDFC,Delhi,Utilities
+177.09,14-06-2024,Bill Payment,SBI NetBanking,Karnataka,Retail
+371.95,05-08-2024,Online Purchase,SBI NetBanking,Maharashtra,Utilities
+155.19,02-12-2024,Online Purchase,IDFC UPI,Tamil Nadu,Financial services and Taxes
+252.05,16-02-2024,Bill Payment,HDFC,Delhi,Financial services and Taxes
+354.31,11-02-2024,Payment,HDFC,Delhi,Groceries
+341.6,26-09-2024,Payment,HDFC,Karnataka,Groceries
+404.45,08-09-2024,Bill Payment,IDFC UPI,Delhi,Financial services and Taxes
+407.2,24-06-2024,Online Purchase,SBI NetBanking,Karnataka,Retail
+22.94,24-12-2024,Bill Payment,IDFC UPI,Delhi,Utilities
+61.71,04-11-2024,Payment,HDFC,Tamil Nadu,Groceries
+175.51,12-06-2024,Online Purchase,SBI NetBanking,Karnataka,Groceries
+209.31,18-12-2024,Bill Payment,SBI NetBanking,Karnataka,Retail
+162.97,05-09-2024,Payment,SBI NetBanking,Maharashtra,Financial services and Taxes
